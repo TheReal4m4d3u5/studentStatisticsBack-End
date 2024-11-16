@@ -1,9 +1,5 @@
 Student Statistics Back-End
 
-In this activity, you will start with an existing codebase for a mostly complete application.
-
-You will be adding aggregate methods to the `Student` controller to show a student's overall grade and the number of students.
-
 ## Instructions
 
 The completed application should meet the following criteria:
